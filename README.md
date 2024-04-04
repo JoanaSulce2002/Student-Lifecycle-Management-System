@@ -1,0 +1,7 @@
+Project Overview
+	Admission System:
+The University Admission System serves as the initial component of the broader Student Lifecycle Management System. It streamlines the registration process for new students, ensuring an efficient and transparent workflow. Key features of the Admission System include a user-friendly online application form, centralizing student applications for easy review, financial transaction tracking, and collaboration between the Student Relations Office, Finance Office, and Secretary Office.
+	Administration System:
+The Administration System is the central hub where the Dean of Students, acting as the Admin, oversees various aspects of student management. This system integrates functionalities for managing student records, activities, clubs, and school services. The Dean has the authority to update student information, track activities and club memberships, and stay informed about school-wide events. Additionally, the Administration System includes an Alumni module to monitor the progress of graduated students.
+	Student Portal:
+The Student Portal is a personalized space for students within the Student Lifecycle Management System. Students can securely log in to access information relevant to their academic journey. The portal includes features such as updating personal details, receiving notifications for activities, clubs, and mentorship programs, providing a seamless and interactive experience for the student community.
